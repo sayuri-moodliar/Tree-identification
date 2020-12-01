@@ -10,4 +10,4 @@ Binary images + extracted features like size, shape,colour, margin, texture were
 Client presentations have been sanitised for confidentiality and are shared in the Code tab
 ## Data set and code
 The data set and code have been classified as private.
-Contact the owner for further details.
+Contact the owner for further details
